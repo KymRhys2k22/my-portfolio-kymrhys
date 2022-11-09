@@ -1,0 +1,138 @@
+{
+  "main": {
+    "name": "Kym Rhys Mallari",
+    "occupation": "Inventory Clerk at Daiso Japan",
+    "description": "I eat, sleep and Display",
+    "image": "profilepic.jpg",
+    "bio": "Hello, my name is Kym Rhys Mallari, and I am currently employed as an Inventory Clerk at Daiso Japan. In addition, I am currently self-studying Web Development and also Mobile Developer if there is an opportunity. Game Development is the first thing I am studying Programming Language is C# because I really want to do game development, but my current computer set up may not be able to handle it, so I just studied web development and Mobile Development. If you could help me, I could also study UX design.",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "kymrhys@gmail.com",
+    "phone": "+63 930-7079-534",
+    "address": {
+      "street": "#8 Ipil-Ipil st.",
+      "city": "San Pedro",
+      "state": "City of San Pedro, Laguna",
+      "zip": "4023"
+    },
+    "website": "N/A",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1esjsb2ZbG5bG0NJYgVJCiDs1vZkLgCF6",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/kymrhys",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/kymrhys",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/kymrhys/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/KymRhys2k22",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "SPRNCHS - San Pedro Relocation Center National High School",
+        "degree": "",
+        "graduated": "2011",
+        "description": "Perfect Attendance"
+      }
+    ],
+    "work": [
+      {
+        "company": "Daiso Japan",
+        "title": "Inventory Clerk",
+        "years": "May 2022 - Present",
+        "description": "Making a good visual display and providing excellent customer service are two of my professional accomplishments."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "10%"
+      },
+      {
+        "name": "Python",
+        "level": "1%"
+      },
+      {
+        "name": "Git",
+        "level": "20%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "10%"
+      },
+      {
+        "name": "Flutter/Dart",
+        "level": "20%"
+      },
+      {
+        "name": "Web Development",
+        "level": "15%"
+      },
+      {
+        "name": "Mobile Development",
+        "level": "15%"
+      },
+      {
+        "name": "UX/UI",
+        "level": "15%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Kahit na - Kym Rhys",
+        "category": "",
+        "image": "kahitna.webp",
+        "url": "https://youtu.be/yeVCIKpsRj4"
+      },
+      {
+        "title": "Free style",
+        "category": "",
+        "image": "kymrhys.webp",
+        "url": "https://youtu.be/K_nqbzl6ZsA"
+      },
+      {
+        "title": "Intro",
+        "category": "",
+        "image": "intro.webp",
+        "url": "https://youtu.be/ZxFVGkAOWlo"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Ang galing mo naman paano mo ginawa yan",
+        "user": "George"
+      },
+      {
+        "text": "Copy paste lang yan eh!",
+        "user": "Robert"
+      },
+      {
+        "text": "hala sya",
+        "user": "Unknown"
+      }
+    ]
+  }
+}
